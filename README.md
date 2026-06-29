@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Hi 👋 My name is Hopewell Matsika
 =================================
 
